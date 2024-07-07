@@ -1,0 +1,16 @@
+pages:
+  Home:
+    - path: "00_🏠HomePage.py"
+      title: "HomePage"
+      icon: ":material/home:"
+  Projects:
+    - path: "pages/Biblical_Festivals.py"
+      title: "Biblical Festivals"
+      icon: ":material/synagogue:"
+    - path: "pages/Podcast_Dashboard.py"
+      title: "Podcast Dashboard"
+      icon: ":material/podcasts:"
+  About:
+    - path: "pages/About_Me.py"
+      title: "About Me"
+      icon: ":material/info:"

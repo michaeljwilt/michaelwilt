@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "streamlit-portfolio"
+version = "0.1.0"
+description = ""
+authors = ["Michael Wilt <michael.wilt@ramseysolutions.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.36.0"
+faker = "^26.0.0"
+pandas = "^2.2.2"
+plotly = "^5.22.0"
+streamlit-option-menu = "^0.3.13"
+pyluach = "^2.2.0"
+datetime = "^5.5"
+pyyaml = "^6.0.1"
+astral = "^3.2"
+streamlit-extras = "^0.4.3"
+prophet = "^1.1.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
